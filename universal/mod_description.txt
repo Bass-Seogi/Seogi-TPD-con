@@ -3,7 +3,7 @@ Convoy Seogi Triple, TPD (HCT)
 Nevada, Utah, Colorado - Limited Doubles (B-double, RMD, Turnpike Double, Triple)
 is the mode that appears in all of USA
 
-[red]It will function normally from 1.50[normal]
+[red]It will function normally from 1.53[normal]
 
 
 [green]You will have to buy a new one or change the chain type at the repair shop.
